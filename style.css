@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+.header ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 15px 20px;
+    align-items: center;
+    font-size: 20px;
+    
+}
+
+.header button{
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+    
+}
+
+.main{
+    margin: 150px;
+    margin-right:  530px;
+
+}
+.main-right img{
+    height: 250px;
+    width: 200px;
+    border-radius: 15px;
+    margin-bottom: 400px;
+    margin-bottom: 230px;
+    margin-left: 720px;
+
+}
+
+span{
+    color: red;
+}
+
+    
+

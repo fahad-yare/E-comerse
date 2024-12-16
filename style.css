@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+.header{
+    background-color: red;
+}
+
 .header ul{
     display: flex;
     justify-content: space-between;
@@ -26,6 +30,7 @@
 
 }
 .main-right img{
+    margin-top: -225px;
     height: 250px;
     width: 200px;
     border-radius: 15px;
